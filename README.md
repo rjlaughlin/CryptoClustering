@@ -54,4 +54,4 @@ from sklearn.cluster import KMeans
 ## Running the Analysis
 - Clone the repository and navigate to the project directory.
 - Install dependencies as shown above.
-- Run the Jupyter Notebooks to generate the analyses.
+- Run the Jupyter Notebook to generate the analyses.
